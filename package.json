@@ -1,0 +1,15 @@
+{
+  "name": "rune-slayer-shop",
+  "version": "1.0.0",
+  "description": "A shop website for Rune Slayer products",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "bot": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "discord.js": "^14.14.1"
+  }
+} 
